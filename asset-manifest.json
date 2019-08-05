@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.65475bec.chunk.css",
+    "main.css": "/CV/static/css/main.8aa1331d.chunk.css",
     "main.js": "/CV/static/js/main.026b8b80.chunk.js",
     "main.js.map": "/CV/static/js/main.026b8b80.chunk.js.map",
     "runtime~main.js": "/CV/static/js/runtime~main.50de0404.js",
@@ -8,9 +8,9 @@
     "static/js/2.4b95b049.chunk.js": "/CV/static/js/2.4b95b049.chunk.js",
     "static/js/2.4b95b049.chunk.js.map": "/CV/static/js/2.4b95b049.chunk.js.map",
     "index.html": "/CV/index.html",
-    "precache-manifest.7043db47ac2dc1c0b319d4f92b0e2922.js": "/CV/precache-manifest.7043db47ac2dc1c0b319d4f92b0e2922.js",
+    "precache-manifest.77e65a8d0cbec319701b1ed096a43468.js": "/CV/precache-manifest.77e65a8d0cbec319701b1ed096a43468.js",
     "service-worker.js": "/CV/service-worker.js",
-    "static/css/main.65475bec.chunk.css.map": "/CV/static/css/main.65475bec.chunk.css.map",
+    "static/css/main.8aa1331d.chunk.css.map": "/CV/static/css/main.8aa1331d.chunk.css.map",
     "static/media/Noman.jpg": "/CV/static/media/Noman.f6bcf4a0.jpg"
   }
 }
