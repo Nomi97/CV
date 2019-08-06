@@ -25,6 +25,7 @@ header {
 
 .title {
   font-size: 56px;
+  text-align: center;
   color: #484848;
   margin-bottom: 0;
   font-weight: 700;
@@ -45,4 +46,19 @@ main {
 
 .card-container {
   width: 100%;
+}
+
+@media (max-width: 767px) {
+  .title {
+    font-size: 28px;
+  }
+
+  main {
+    flex-direction: column;
+    padding: 0 16px;
+  }
+
+  .portrait {
+    margin-left: 0;
+  }
 }
