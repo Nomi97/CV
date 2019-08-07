@@ -7,7 +7,7 @@ function Sidebar() {
     <aside className='sidebar'>
       <section className='sidebar__item'>
         <h2 className='sidebar__title'><FontAwesomeIcon icon={faUser} /> Profile</h2>
-        <p>I am a junior developer with a passion for front-end development. I love working on challenging task that help me grow and evolve. I very ambitious, goal driven and  persistent in solving and finding solutions to the problem</p>
+        <p>I am a software developer with a passion for front-end. I love working on challenging task that help me grow and evolve. I very ambitious, goal driven and  persistent in solving and finding solutions to the problem</p>
       </section>
       <section className='sidebar__item'>
         <h2 className='sidebar__title'><FontAwesomeIcon icon={faPhoneAlt} /> Contact</h2>
